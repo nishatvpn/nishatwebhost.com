@@ -1,9 +1,0 @@
-#!/bin/bash
-#Script Variables
-HOST='192.64.87.141';
-USER='mokimvpn_nishatwebhos';
-PASS='mokimvpn_nishatwebhos';
-DBNAME='mokimvpn_nishatwebhos';
-PORT_TCP='1194';
-PORT_UDP='53';
-404: Not Found
